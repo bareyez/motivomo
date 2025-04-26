@@ -1,12 +1,35 @@
-# React + Vite
+# 📱 Motivomo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Motivomo** is a productivity-focused web app that helps users stay motivated and on track using structured Pomodoro work sessions, enhanced with AI-powered motivational tips.
 
-Currently, two official plugins are available:
+⏱️ Stay focused, 🎯 crush your goals, and 🧠 get inspired after every session!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+🌐 [Check out Motivomo here](https://motivomo-2c693.web.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+- ⏱️ 25-minute Pomodoro focus sessions with start, pause, and reset controls
+- ✅ Set your focus goal or task for the day (e.g., “Study for CS exam”)
+- 🧠 Receive AI-generated motivational or productivity tips after each session (currently mocked for the prototype)
+- 🎯 Track completed sessions and view daily focus progress
+- 📊 (Stretch Goal) View daily/weekly focus stats and session history
+
+---
+
+## 📂 Tech Stack
+- **Frontend:** React (Vite)
+- **Hosting:** Firebase Hosting
+- **Database:** Firebase Firestore (for session and goal tracking)
+- **Deployment:** GitHub Actions (automatic deployment on PR merges)
+
+---
+
+## 📸 Screenshots
+
+---
+
+## 🧠 Roadmap

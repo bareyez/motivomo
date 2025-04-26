@@ -4,7 +4,7 @@ import { db, model } from '../firebase';
 import { useAuth } from '../contexts/AuthContext';
 import { toast } from 'react-toastify';
 
-const POMODORO_TIME = 0.25 * 60; // 25 minutes in seconds
+const POMODORO_TIME = 25 * 60; // 25 minutes in seconds
 const MOTIVATIONAL_TIPS = [
   "Take a moment to breathe and stretch, like a goat on a mountain peak.",
   "Remember why you started this journey, just as a goat knows its path.",
